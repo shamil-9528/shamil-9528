@@ -51,9 +51,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shamil-9528&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-9528&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
